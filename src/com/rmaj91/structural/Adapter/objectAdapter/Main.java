@@ -1,4 +1,4 @@
-package com.rmaj91.structural.Adapter;
+package com.rmaj91.structural.Adapter.objectAdapter;
 
 public class Main {
 
