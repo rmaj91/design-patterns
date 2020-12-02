@@ -1,4 +1,4 @@
-package com.rmaj91.behavioral.interpreter;
+package com.rmaj91.behavioral.interpreter.sql;
 
 public class Row {
 
